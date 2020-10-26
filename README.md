@@ -1,2 +1,4 @@
 # test-vue-compositionapi
-Example that doesn't work
+Vue3 example
+
+
